@@ -5,6 +5,8 @@ add_library(MPAGSCipher STATIC
   Alphabet.hpp
   CaesarCipher.hpp
   CaesarCipher.cpp
+  VigenereCipher.hpp
+  VigenereCipher.cpp
   CipherMode.hpp
   CipherType.hpp
   PlayfairCipher.hpp
